@@ -6,6 +6,9 @@
      - yii2-shop Widget goto [Explore](https://github.com/albertgeeca/yii2-shop/tree/master/widgets) 
      - app-shop-smarty Widget goto [Explore](https://github.com/skeeks-cms/app-shop-smarty/tree/master/frontend/widgets)
      - Collection of useful widgets goto [Explore](https://github.com/JayMay1310/yii2-widgets)
+   - Usefull Web Application
+     - Yii2-user goto [Explore](https://github.com/dektrium/yii2-user)
+     - yii2-excel goto [Explore](https://github.com/arogachev/yii2-excel)
 
 2. WordPress goto [Explore](https://github.com/WordPress/WordPress)
    - Plugin List
